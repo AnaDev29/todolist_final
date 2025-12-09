@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Santiago Hurtado",
+      "alias": "santi",
+      "contraseña": "santi123"
+    },
+    {
+      "id": 2,
+      "nombre": "Anita",
+      "alias": "ana",
+      "contraseña": "ana123"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "2802",
+      "author": "Santiago Hurtado",
+      "text": "hola",
+      "completed": false
+    }
+  ]
+}
